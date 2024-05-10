@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./styles.css">
+    <title>Convert Money</title>
+</head>
+<body>
+
+    <div class="container">
+        <img src="./Assets/logo (1).gif" class="money-gif">
+        <div class="principal">
+            <section class="information">
+                <div class="of">
+                    <p class="inf-text1">Converter <b>de</b></p>
+                    <select>
+                        <option class="de">R$ Real Brasileiro</option>
+                    </select>
+                </div>
+
+                <div class="for">
+                    <p class="inf-text1">Converter <b>para</b></p>
+                    <select id="para">
+                        <option id="dolar">RS$ Dolar Americano</option>
+                        <option id="euro">€ Euro</option>
+                        <option id="libra">£ Libra</option>
+                        <option id="bitcoin">Bitcoin</option>
+                    </select>
+                </div>
+
+                <p class="inf-text1"><b>Valor</b></p>
+                <input type="text" id="valor">
+
+                <button class="main-button" onclick="onClick()">Converter</button>
+            </section>
+
+            <section class="conversor">
+                <div class="inf-conversor">
+                    <img src="./Assets/brasil 2.png" class="coins">
+                    <p class="inf-text">Real</p>
+                    <p class="money" id="money1"> . </p>
+                    <img src="./Assets/Vector.png" class="seta">
+                    <img src="./Assets/estados-unidos.png" class="coins" id="coin2">
+                    <p class="inf-text" id="text2">Dolar Americano</p>
+                    <p class="money" id="money2"> . </p>
+                </div>
+            </section>
+        </div>
+    </div>
+</body>
+<script src="./conversorMoeda.js"></script>
+</html>
