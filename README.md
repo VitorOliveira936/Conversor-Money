@@ -5,7 +5,7 @@
 
 
 <h2>Layouts</h2>
-<img src: > 
+<img src = "https://github.com/VitorOliveira936/Conversor-Money/blob/master/Assets/print-cellfone-convertor-money.png">
 <img src: >
 
 <h2>Técnologias Usadas</h2>
