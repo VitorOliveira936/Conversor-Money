@@ -5,13 +5,13 @@
 
 
 <h2>Layouts</h2>
+<img src = "https://github.com/VitorOliveira936/Conversor-Money/blob/master/Assets/print-pc-convertor-money.png" width = 700px>
 <img src = "https://github.com/VitorOliveira936/Conversor-Money/blob/master/Assets/print-cellfone-convertor-money.png">
-<img src: >
 
 <h2>Técnologias Usadas</h2>
-  - HTML <br>
-  - CSS <br>
-  - JavaScript <br>
+  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
   
 <h2>Conclusão</h2>
 <p> Foi um dos melhores projetos que já fiz sozinho, com eu e Deus, para resolver os problemas, bugs e encontrar soluções para algumas funcionalidades.</p>
