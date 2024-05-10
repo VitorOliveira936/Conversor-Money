@@ -9,7 +9,9 @@
 <img src: >
 
 <h2>Técnologias Usadas</h2>
+  - HTML <br>
+  - CSS <br>
+  - JavaScript <br>
   
-
 <h2>Conclusão</h2>
 <p> Foi um dos melhores projetos que já fiz sozinho, com eu e Deus, para resolver os problemas, bugs e encontrar soluções para algumas funcionalidades.</p>
